@@ -26,7 +26,7 @@ A modern, responsive blog application built with cutting-edge technologies inclu
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/vibhutisarode/BLOG-LISTING-PAGE-ADVANCE-VERSION-.git
 cd "blog listing (advance tech)"
 ```
 
