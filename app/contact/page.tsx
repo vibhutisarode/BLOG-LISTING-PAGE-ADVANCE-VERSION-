@@ -46,7 +46,7 @@ export default function ContactPage() {
             Get In Touch
           </h1>
           <p className="text-xl text-gray-600 dark:text-gray-400 max-w-3xl mx-auto">
-            Have questions, suggestions, or want to collaborate? We'd love to hear from you!
+            Have questions, suggestions, or want to collaborate? We&apos;d love to hear from you!
           </p>
         </div>
 
@@ -134,7 +134,7 @@ export default function ContactPage() {
                   required
                   rows={6}
                   className="w-full px-4 py-3 border border-gray-300 dark:border-gray-600 rounded-lg bg-white dark:bg-gray-700 text-gray-900 dark:text-white placeholder-gray-500 dark:placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-colors resize-vertical"
-                  placeholder="Tell us what's on your mind..."
+                  placeholder="Tell us what&apos;s on your mind..."
                 />
               </div>
 

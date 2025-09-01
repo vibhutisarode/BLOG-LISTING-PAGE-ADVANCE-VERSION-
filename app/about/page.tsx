@@ -27,10 +27,10 @@ export default function AboutPage() {
                 Our Mission
               </h2>
               <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed mb-6">
-                We're passionate about making complex technology accessible to everyone. Our mission is to bridge the gap between cutting-edge innovations and practical understanding.
+                We&apos;re passionate about making complex technology accessible to everyone. Our mission is to bridge the gap between cutting-edge innovations and practical understanding.
               </p>
               <p className="text-gray-600 dark:text-gray-300 text-lg leading-relaxed">
-                Whether you're a seasoned developer, a tech enthusiast, or someone curious about the digital revolution, we provide insights that matter.
+                Whether you&apos;re a seasoned developer, a tech enthusiast, or someone curious about the digital revolution, we provide insights that matter.
               </p>
             </div>
             <div className="relative h-80 rounded-xl overflow-hidden">
